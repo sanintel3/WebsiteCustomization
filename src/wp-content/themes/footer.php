@@ -21,7 +21,7 @@
 		<div class="site-info container">
 			<span class="text-green">Helping hands are holier than praying lips</span>
                         <span class="sep text-green"> | </span>
-                        <a href="mailto:sriramakrishnaorganization@gmail.com?subject=Hello!"><span class="text-green">sriramakrishnaorganization@gmail.com</span></a>
+                        <a href="mailto:srcs.org.in@gmail.com?subject=Hello!"><span class="text-green">srcs.org.in@gmail.com</span></a>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
